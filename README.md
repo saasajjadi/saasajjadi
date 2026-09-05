@@ -1,16 +1,27 @@
-## Hi there 👋
+# Seyed Ali Akbar Sajadi
 
-<!--
-**saasajjadi/saasajjadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geospatial Data Analyst | GIS Specialist | Spatial Data Science Researcher
 
-Here are some ideas to get you started:
+I work at the intersection of geospatial technologies, environmental analysis, and urban studies. My research interests include GIS-based modeling, remote sensing applications, spatial analytics, and data-driven approaches for understanding and solving complex environmental and urban challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Geographic Information Systems (GIS)
+- Spatial Data Science
+- Remote Sensing and Earth Observation
+- Urban Analytics and Sustainable Cities
+- Environmental Modeling
+- Spatial Machine Learning
+- Geospatial Decision Support Systems
+
+## Tools & Technologies
+
+- Python | R
+- ArcGIS | QGIS
+- GeoPandas | Rasterio
+- Spatial Statistics
+- Machine Learning for Geospatial Data
+
+## Research Goal
+
+Developing intelligent geospatial solutions to support sustainable environmental management and evidence-based urban planning.
